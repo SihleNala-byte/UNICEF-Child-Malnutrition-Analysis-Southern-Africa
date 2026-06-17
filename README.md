@@ -1,3 +1,4 @@
+![Dashboard Overview](assets/all_questions_combined.png)
 #  UNICEF Child Malnutrition Analysis - Southern Africa
 
 An exploratory data analysis of child malnutrition indicators across Southern Africa, using UNICEF's global nutrition dataset spanning 1970–2023. The analysis investigates stunting trends, gender gaps, and the regional burden of malnutrition across 200 countries, with a focused lens on the Southern African region.
